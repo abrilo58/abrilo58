@@ -34,7 +34,7 @@ Automated PowerShell solution that creates Active Directory users from Zendesk t
 - Developing agentic AI systems
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/awondimu-it)
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/awondimu-it)
 - 📧 Email: [mastercybersecpro@gmail.com]
 - 🌐 Website: [mastercybersec.pro]
 
